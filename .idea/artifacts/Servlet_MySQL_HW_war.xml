@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Servlet_MySQL_HW:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Servlet_MySQL_HW</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Servlet_MySQL_HW-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Servlet_MySQL_HW:war exploded" />
+    </root>
+  </artifact>
+</component>
